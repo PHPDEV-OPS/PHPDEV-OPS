@@ -17,7 +17,6 @@ I love learning new technologies and contributing to meaningful projects.
 - 🌱 Constantly learning and improving my skills
 - 💬 Ask me about web development, software engineering and best practices
 - 📫 How to reach me: <a href="mailto:antonyweiszer@gmail.com">antonyweiszer@gmail.com</a>
-- ⚡ Fun fact: I can debug code faster than I can find my keys!
 
 ---
 
