@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/195562574?v=4" width="120" style="border-radius: 50%; box-shadow: 0 2px 16px #4f46e5;" alt="Antony Weiszer avatar">
-
 # 👋 Hi, I'm Antony Weiszer
 
 ### <span style="color:#a5b4fc">Software Developer | Tech Enthusiast | Problem Solver</span>
