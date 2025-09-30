@@ -59,9 +59,7 @@ I love learning new technologies and contributing to meaningful projects.
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/-API%20Design-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-API%20Testing-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-REST%20API-4F46E5?style=for-the-badge"/>
+  
   <img src="https://img.shields.io/badge/-Database%20Design-059669?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Database%20Development-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Web%20Development-F59E42?style=for-the-badge"/>
@@ -69,6 +67,9 @@ I love learning new technologies and contributing to meaningful projects.
   <img src="https://img.shields.io/badge/-Problem%20Solving-EC4899?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Continuous%20Learning-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Teamwork-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-API%20Design-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-API%20Testing-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-REST%20API-4F46E5?style=for-the-badge"/>
 </div>
 
 ---
