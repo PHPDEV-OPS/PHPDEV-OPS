@@ -1,12 +1,16 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/195562574?v=4" width="120" style="border-radius: 50%; box-shadow: 0 2px 16px #4f46e5;" alt="Antony Weiszer avatar">
-
-# 👋 Hi, I'm Antony Weiszer
-
-### <span style="color:#a5b4fc">Software Developer | Tech Enthusiast | Problem Solver</span>
-
-</div>
+<!-- Hero Section Start -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=777BB4&height=160&section=header&text=Antony%20Weiszer&fontSize=50&fontColor=ffffff&fontAlignY=60" alt="hero" width="100%" />
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/3369400?v=4" width="140" style="border-radius: 50%; margin-top: -90px; border: 6px solid #777BB4; background: #777BB4; box-shadow: 0 8px 32px #777bb488;">
+  <br>
+  <h2>
+    <span style="color:#a5b4fc;">👋 Hi, I'm Antony Weiszer</span>
+    <br>
+    <span style="color:#ededed; font-weight:normal; font-size:1.3em;">Software Developer | Tech Enthusiast | Problem Solver</span>
+  </h2>
+</p>
+<!-- Hero Section End -->
 
 ---
 
