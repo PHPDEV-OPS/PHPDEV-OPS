@@ -44,15 +44,15 @@ I'm a passionate software developer focused on creating innovative solutions and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonyweiszer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PHPDEV-OPS&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyweiszer&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHPDEV-OPS&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyweiszer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHPDEV-OPS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -76,12 +76,12 @@ I'm a passionate software developer focused on creating innovative solutions and
 
 <div align="center">
   
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ### 💡 Building production ready applications.
   
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/antonyweiszer">antonyweiszer</a></i>
+  <i>⭐️ From <a href="https://github.com/PHPDEV-OPS">antonyweiszer</a></i>
 </div>
