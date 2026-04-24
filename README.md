@@ -13,7 +13,7 @@
 I'm a passionate software developer focused on creating innovative solutions and writing clean, maintainable code.  
 I love learning new technologies and contributing to meaningful projects.
 
-- 🔭 Currently Working on **EazyLinks Intelligence** - a travel intelligence plartform that allows you to make bookings for your flights, bus, trips, events and concerts in a single checkout conversation. Your travel OS.
+- 🔭 Currently Working on **WayfiraX AI** - an AI travel OS for travel operators and travell enthusiasts.
 - 🔭 Also working on **Swippable** - a plartform that allows users to create virtual cards and spend their stable coins anywhere
 - 🔭 Accepting suggestions as well on **Twin Terminal** - a cross-platform software for financial simulations and digital twins
 - 🌱 Constantly learning and improving my skills
