@@ -14,8 +14,7 @@ I'm a passionate software developer focused on creating innovative solutions and
 I love learning new technologies and contributing to meaningful projects.
 
 - 🔭 Currently Working on **WayfiraX AI** - an AI travel OS for travel operators and travell enthusiasts.
-- 🔭 Also working on **Swippable** - a plartform that allows users to create virtual cards and spend their stable coins anywhere
-- 🔭 Accepting suggestions as well on **Twin Terminal** - a cross-platform software for financial simulations and digital twins
+- 🔭 Worked on **Swippable** - a plartform that allows users to create virtual cards and spend their stable coins anywhere
 - 🌱 Constantly learning and improving my skills
 - 💬 Ask me about web development, software engineering and best practices
 - 📫 How to reach me: <a href="mailto:antonyweiszer@gmail.com">antonyweiszer@gmail.com</a>
